@@ -15,7 +15,7 @@
   <p align="center">
 <a href="https://inoukiroji.straw.page">Straw
 <p align="center">
-  <img src="1000016609-removebg-preview.png" width="230">
+  <img src="1000016609-removebg-preview.png" width="310">
 </p>
 <p align="center">
   <img src="1000016603-removebg-preview.png" width="510">
