@@ -18,5 +18,5 @@
   <img src="1000016609-removebg-preview.png" width="310">
 </p>
 <p align="center">
-  <img src="1000016603-removebg-preview.png" width="510">
+  <img src="1000016646-removebg-preview.png" width="350">
 </p>
