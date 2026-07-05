@@ -14,6 +14,7 @@
 <a href="https://www.instagram.com/2.roseprims?igsh=ZThhenp6ZTRzdzNr">Instagram
   <p align="center">
 <a href="https://inoukiroji.straw.page">Straw
-<p align="center">
+  <p align="center"> 
+    <a href="https://guns.lol/zaff">guns
+  <p align="center">
   <img src="1000016783-removebg-preview.png" width="400">
-</p>
