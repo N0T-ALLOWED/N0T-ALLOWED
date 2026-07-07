@@ -10,10 +10,7 @@
 </p>
   <p align="center">
 <a href="https://guns.lol/opheia">guns.lol
-    <p align="center">
-<a href="https://www.instagram.com/2.roseprims?igsh=ZThhenp6ZTRzdzNr">Instagram
-  <p align="center">
-<a href="https://inoukiroji.straw.page">Straw
+    <p
   <p align="center"> 
     <a href="https://guns.lol/zaff">guns
   <p align="center">
