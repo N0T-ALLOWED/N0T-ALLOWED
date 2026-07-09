@@ -13,5 +13,3 @@
     <p
   <p align="center"> 
     <a href="https://guns.lol/zaff">guns
-  <p align="center">
-  <img src="1000016925-removebg-preview.png" width="400">
