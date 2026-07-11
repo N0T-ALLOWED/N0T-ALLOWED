@@ -10,9 +10,9 @@
 </p>
    <p align="center">
    <a href="https://guns.lol/zaff">
-  <img src="1000017058-removebg-preview.png" width="300">
-</a>
+  <img src="1000017058-removebg-preview.png" width="250">
+     <p align="center">
  <a href="sunandmoon.atabook.org">
-  <img src="1000017066-removebg-preview.png" width="300">
+  <img src="1000017066-removebg-preview.png" width="250">
 </a>   
   
