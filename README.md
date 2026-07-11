@@ -10,8 +10,8 @@
 </p>
    <p align="center">
    <a href="https://guns.lol/zaff">
-  <img src="1000017058-removebg-preview.png" width="250">
+  <img src="1000017058-removebg-preview.png" width="290">
  <a href="https://www.instagram.com/2.roseprims?igsh=ZThhenp6ZTRzdzNr">
-  <img src="1000017080-removebg-preview.png" width="250">
+  <img src="1000017080-removebg-preview.png" width="290">
 </a>   
   
